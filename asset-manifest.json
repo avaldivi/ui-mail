@@ -1,13 +1,13 @@
 {
   "main.css": "/ui-mail/static/css/main.f9c7d904.chunk.css",
-  "main.js": "/ui-mail/static/js/main.57ec5730.chunk.js",
-  "main.js.map": "/ui-mail/static/js/main.57ec5730.chunk.js.map",
+  "main.js": "/ui-mail/static/js/main.630c338d.chunk.js",
+  "main.js.map": "/ui-mail/static/js/main.630c338d.chunk.js.map",
   "static/js/1.9fe10223.chunk.js": "/ui-mail/static/js/1.9fe10223.chunk.js",
   "static/js/1.9fe10223.chunk.js.map": "/ui-mail/static/js/1.9fe10223.chunk.js.map",
   "runtime~main.js": "/ui-mail/static/js/runtime~main.21e31451.js",
   "runtime~main.js.map": "/ui-mail/static/js/runtime~main.21e31451.js.map",
   "static/css/main.f9c7d904.chunk.css.map": "/ui-mail/static/css/main.f9c7d904.chunk.css.map",
   "index.html": "/ui-mail/index.html",
-  "precache-manifest.20948bb0a992cddd389092e169f0ec8a.js": "/ui-mail/precache-manifest.20948bb0a992cddd389092e169f0ec8a.js",
+  "precache-manifest.09560b6ecb005a5ba088fcfeda929deb.js": "/ui-mail/precache-manifest.09560b6ecb005a5ba088fcfeda929deb.js",
   "service-worker.js": "/ui-mail/service-worker.js"
 }
