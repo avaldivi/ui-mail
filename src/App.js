@@ -17,8 +17,8 @@ class App extends Component {
       <Router>
         <NavigationLayout tags={messagesData}>
           <Switch>
-            <Route exact path='/' render={props => <MessagesIndex {...props} messagesData={messagesData} />}/>
-            <Route path='/messages/:id'
+            <Route exact path={`${process.env.PUBLIC_URL}/`}  render={props => <MessagesIndex {...props} messagesData={messagesData} />}/>
+            <Route path={`${process.env.PUBLIC_URL}/messages/:id`} 
               render={props => <MessagesShow {...props} messagesData={messagesData} />} />
           </Switch>
         </NavigationLayout>

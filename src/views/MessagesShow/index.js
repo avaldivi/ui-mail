@@ -2,8 +2,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import MessagesItem from '../../components/MessagesItem';
-
 const MessagesShow = props => {
   return (
     <div>

@@ -34,7 +34,7 @@ export default class NavigationLayout extends Component {
       </div>
       <div className="panel-layout">
         <div className={openMenu ? 'sidebar sidebar-open': 'sidebar sidebar-closed'}>
-          <NavLink className="sidebar-item" activeClassName="active" to="/"><Inbox className="icon"/> Inbox</NavLink>
+          <NavLink className="sidebar-item" activeClassName="active" to={`${process.env.PUBLIC_URL}/`}><Inbox className="icon"/> Inbox</NavLink>
           <b className="tag-title"><Label  className="icon"/> Tags Available ({uniqueTags.length})</b>
             {
               uniqueTags.map((tag, i) => {
