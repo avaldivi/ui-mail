@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2512c84297f281f53a6f",
+    "revision": "57ec5730248f58b578bd",
     "url": "/ui-mail/static/css/main.f9c7d904.chunk.css"
   },
   {
-    "revision": "2512c84297f281f53a6f",
-    "url": "/ui-mail/static/js/main.2512c842.chunk.js"
+    "revision": "57ec5730248f58b578bd",
+    "url": "/ui-mail/static/js/main.57ec5730.chunk.js"
   },
   {
     "revision": "9fe10223bc049419feb6",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ui-mail/static/js/runtime~main.21e31451.js"
   },
   {
-    "revision": "6062698ed03ac9feead2e801a701e16b",
+    "revision": "178d0ee9f3fa2e5eb871048e2ad32f12",
     "url": "/ui-mail/index.html"
   }
 ];
